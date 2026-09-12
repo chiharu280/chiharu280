@@ -1,26 +1,28 @@
-# Hi there, I'm Yulin 👋
+# Hi, I'm Yulin 👋
 
-An **Embedded Systems & Autonomous Driving Algorithm Engineer** passionate about Computer Vision, Edge AI Deployment, and Intelligent Vehicles.
+An Embedded Systems and Autonomous Driving Algorithm Engineer passionate about computer vision, edge AI deployment, and intelligent vehicles.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Graduated from **ESIGELEC ROUEN** (Ingénierie des Systèmes Embarqués : Véhicule Autonome).
-- 🚘 Experienced in **DMS (Driver Monitoring System)**, Keypoint Detection (YOLOv8-Pose / MediaPipe), and Edge SDK Integration.
-- 🛠️ Proficient in **C / C++ / Python**, CMake, Linux, Docker, ONNX, and Embedded Toolchains.
-- 🌍 Trilingual: **Chinese** (Native) | **English** (Suitable for work) | **French** (DELF B2) | *Learning Japanese* 🇯🇵.
+- 🎓 Graduated from **ESIGELEC Rouen**, specialising in Embedded Systems Engineering and Autonomous Vehicles.
+- 🚘 Experienced in **Driver Monitoring Systems (DMS)**, keypoint detection with YOLOv8-Pose and MediaPipe, and edge SDK integration.
+- 🛠️ Proficient in **C, C++, and Python**, as well as CMake, Linux, Docker, ONNX, and embedded toolchains.
+- 🌍 Languages: **Chinese** (native), **English** (professional working proficiency), and **French** (DELF B2). Currently learning Japanese 🇯🇵
 
 ---
 
 ### 🛠️ Languages & Tools
 
 #### Programming & Frameworks
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,cmake,linux,bash,docker,git,vscode,pycharm" alt="Tech Stack" />
 </p>
 
 #### AI & Embedded Deployment
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=opencv,pytorch,anaconda" alt="AI Stack" />
 </p>
@@ -29,17 +31,17 @@ An **Embedded Systems & Autonomous Driving Algorithm Engineer** passionate about
 
 ### 🎮 Beyond Coding
 
-- 🎵 **Rhythm Games**: Rhythm games,I love MaimaiDX and Arcaea.
-
-- 🎵 **Kaneko Chiharu**: One of my favourite music productor.
+- 🎵 **Rhythm Games**: I enjoy rhythm games, especially maimai DX and Arcaea.
+- 🎵 **Kaneko Chiharu**: One of my favourite music producers.
 
 ---
 
-### 📫 Connect with Me 
+### 📫 Connect with Me
 
 - 📧 **Email**: yulin.chen@groupe-esigelec.org
 
 ---
+
 <p align="center">
   <i>"Code with precision, drive with passion."</i>
 </p>
